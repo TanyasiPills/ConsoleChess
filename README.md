@@ -15,6 +15,6 @@ Client side:
 *  as runtime the client should type in "join", also in all lower case
 *  then in the ip they should put in the host's local ip
 
-Public sessions are not supported yet, if needed adviced to use hamachi or alikesy
+Public sessions are not supported yet, if needed, adviced to use hamachi or alikes
   
   
